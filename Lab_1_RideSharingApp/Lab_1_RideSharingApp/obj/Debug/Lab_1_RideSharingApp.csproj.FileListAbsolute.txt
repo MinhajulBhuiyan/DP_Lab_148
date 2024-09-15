@@ -1,0 +1,7 @@
+C:\Users\bhuiy\source\repos\Lab_1_RideSharingApp\Lab_1_RideSharingApp\obj\Debug\Lab_1_RideSharingApp.csproj.AssemblyReference.cache
+C:\Users\bhuiy\source\repos\Lab_1_RideSharingApp\Lab_1_RideSharingApp\obj\Debug\Lab_1_RideSharingApp.csproj.CoreCompileInputs.cache
+C:\Users\bhuiy\source\repos\Lab_1_RideSharingApp\Lab_1_RideSharingApp\bin\Debug\Lab_1_RideSharingApp.exe.config
+C:\Users\bhuiy\source\repos\Lab_1_RideSharingApp\Lab_1_RideSharingApp\bin\Debug\Lab_1_RideSharingApp.exe
+C:\Users\bhuiy\source\repos\Lab_1_RideSharingApp\Lab_1_RideSharingApp\bin\Debug\Lab_1_RideSharingApp.pdb
+C:\Users\bhuiy\source\repos\Lab_1_RideSharingApp\Lab_1_RideSharingApp\obj\Debug\Lab_1_RideSharingApp.exe
+C:\Users\bhuiy\source\repos\Lab_1_RideSharingApp\Lab_1_RideSharingApp\obj\Debug\Lab_1_RideSharingApp.pdb
