@@ -9,7 +9,7 @@ namespace Lab_1_RideSharingApp
     public enum RideType
     {
         Carpool,
-        Luxury,
+        Luxury, 
         Bike
     }
 

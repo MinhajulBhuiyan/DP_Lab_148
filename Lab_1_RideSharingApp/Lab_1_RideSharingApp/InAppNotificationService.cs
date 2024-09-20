@@ -10,7 +10,7 @@ namespace Lab_1_RideSharingApp
     {
         public void SendNotification(string message)
         {
-            Console.WriteLine($"In-App Notification: {message}");
+            Console.WriteLine($"In-App Notification: {message}"); 
         }
     }
 }

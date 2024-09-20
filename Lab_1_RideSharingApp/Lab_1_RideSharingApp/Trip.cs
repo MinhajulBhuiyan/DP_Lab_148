@@ -32,7 +32,7 @@ namespace Lab_1_RideSharingApp
         public double CalculateFare()
         {
             // Fare calculation logic based on distance, ride type, and time of day.
-            return Distance * 10; // Example logic
+            return Distance * 10; 
         }
 
         public void AssignDriver(Driver driver)

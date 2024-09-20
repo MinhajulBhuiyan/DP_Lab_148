@@ -8,6 +8,6 @@ namespace Lab_1_RideSharingApp
 {
     public interface IPaymentMethod
     {
-        void ProcessPayment(double amount);
+        void ProcessPayment(double amount); 
     }
 }

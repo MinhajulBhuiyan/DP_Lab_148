@@ -11,19 +11,21 @@ namespace Lab_1_RideSharingApp
     {
         public static void Main(string[] args)
         {
-            // Create a Payment Method
-            IPaymentMethod paymentMethod = new CreditCardPayment();
+            // Create Payment Methods
+            IPaymentMethod creditCardPayment = new CreditCardPayment();
+            IPaymentMethod paypalPayment = new PayPalPayment();
+            IPaymentMethod digitalWalletPayment = new DigitalWalletPayment();
 
-            // Create a Rider
-            Rider rider = new Rider(1, "Alice", "Downtown", paymentMethod);
+            // Create a Rider with an initial payment method
+            Rider rider = new Rider(1, "Rifaf", "Gazipur", creditCardPayment);
             rider.DisplayInfo();
 
             // Create a Driver
-            Driver driver = new Driver(2, "Bob", "Uptown", "Sedan");
+            Driver driver = new Driver(2, "Alif", "Gazipur", "Sedan");
             driver.DisplayInfo();
 
             // Create a Trip
-            Trip trip = new Trip(101, "Downtown", "Airport", RideType.Luxury, 15);
+            Trip trip = new Trip(101, "Gazipur", "Airport", RideType.Luxury, 15);
             Console.WriteLine($"Trip created: From {trip.PickupLocation} to {trip.DropOffLocation}, Fare: {trip.Fare}");
 
             // Rider requests a ride
@@ -32,11 +34,25 @@ namespace Lab_1_RideSharingApp
             // Driver accepts the ride
             driver.AcceptRide(trip);
 
-            // Start and Complete Trip
+            // Start and complete the trip
             driver.StartTrip(trip);
             driver.CompleteTrip(trip);
 
-            // Rider makes payment
+            // Rider makes payment using the initial payment method (Credit Card)
+            rider.MakePayment(trip);
+
+            // Simulating a runtime payment method change
+            Console.WriteLine("\n--- Rider wants to change the payment method to PayPal ---");
+            rider.ChangePaymentMethod(paypalPayment);
+
+            // Rider makes payment again using the new payment method (PayPal)
+            rider.MakePayment(trip);
+
+            // Further Simulating a runtime change to Digital Wallet
+            Console.WriteLine("\n--- Rider wants to change the payment method to Digital Wallet ---");
+            rider.ChangePaymentMethod(digitalWalletPayment);
+
+            // Rider makes payment using the new method (Digital Wallet)
             rider.MakePayment(trip);
 
             // Ratings
@@ -44,9 +60,10 @@ namespace Lab_1_RideSharingApp
             driver.RateRider(rider, 5);
 
             // Create Admin
-            Admin admin = new Admin(3, "Admin Joe");
+            Admin admin = new Admin(3, "Minhaj");
             admin.DisplayInfo();
             admin.ViewTripHistory(trip);
+
             Console.ReadLine();
         }
     }

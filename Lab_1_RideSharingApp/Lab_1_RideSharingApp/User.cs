@@ -21,7 +21,7 @@ namespace Lab_1_RideSharingApp
             Rating = 5.0; // Default rating
         }
 
-        public abstract void DisplayInfo(); // Abstract method to be overridden by Rider and Driver
+        public abstract void DisplayInfo(); // Abstract method
     }
 
 }

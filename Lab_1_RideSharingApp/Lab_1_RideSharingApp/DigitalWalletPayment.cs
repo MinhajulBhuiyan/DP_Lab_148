@@ -9,7 +9,7 @@ namespace Lab_1_RideSharingApp
     public class DigitalWalletPayment : IPaymentMethod
     {
         public void ProcessPayment(double amount)
-        {
+        { 
             Console.WriteLine($"Processing digital wallet payment of {amount}");
         }
     }

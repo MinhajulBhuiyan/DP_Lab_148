@@ -10,7 +10,7 @@ namespace Lab_1_RideSharingApp
     {
         public void ProcessPayment(double amount)
         {
-            Console.WriteLine($"Processing PayPal payment of {amount}");
+            Console.WriteLine($"Processing PayPal payment of {amount}"); 
         }
     }
 }

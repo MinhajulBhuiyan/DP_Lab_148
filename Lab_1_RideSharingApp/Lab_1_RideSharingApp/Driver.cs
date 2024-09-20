@@ -23,7 +23,7 @@ namespace Lab_1_RideSharingApp
             if (IsAvailable)
             {
                 trip.AssignDriver(this);
-                Console.WriteLine($"{Name} has accepted the ride.");
+                Console.WriteLine($"{Name} has accepted the ride."); 
             }
         }
 
