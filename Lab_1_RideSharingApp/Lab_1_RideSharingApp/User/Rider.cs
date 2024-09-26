@@ -19,7 +19,6 @@ namespace Lab_1_RideSharingApp
 
         public void RequestRide(string pickupLocation, string dropOffLocation, RideType rideType)
         {
-            // Logic to request a ride
             Console.WriteLine($"{Name} has requested a {rideType} ride from {pickupLocation} to {dropOffLocation}.");
         }
 
@@ -31,14 +30,28 @@ namespace Lab_1_RideSharingApp
 
         public void MakePayment(Trip trip)
         {
-            PreferredPaymentMethod.ProcessPayment(trip.Fare);
+            if (PreferredPaymentMethod != null)
+            {
+                PreferredPaymentMethod.ProcessPayment(trip.Fare);
+            }
+            else
+            {
+                Console.WriteLine("No preferred payment method set. Cannot process payment.");
+            }
         }
 
-        // New method to change the payment method dynamically
+        // Updated method to change the payment method dynamically
         public void ChangePaymentMethod(IPaymentMethod newMethod)
         {
-            PreferredPaymentMethod = newMethod;
-            Console.WriteLine($"{Name} has switched to a new payment method.");
+            if (newMethod != null)
+            {
+                PreferredPaymentMethod = newMethod;
+                Console.WriteLine($"\n\n{Name} has selected {PreferredPaymentMethod.GetType().Name} payment method.\n");
+            }
+            else
+            {
+                Console.WriteLine("Invalid payment method. Change was not successful.");
+            }
         }
 
         public override void DisplayInfo()
@@ -46,5 +59,4 @@ namespace Lab_1_RideSharingApp
             Console.WriteLine($"Rider: {Name}, Location: {Location}, Rating: {Rating}");
         }
     }
-
 }

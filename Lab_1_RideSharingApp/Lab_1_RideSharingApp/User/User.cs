@@ -18,10 +18,10 @@ namespace Lab_1_RideSharingApp
             Id = id;
             Name = name;
             Location = location;
-            Rating = 5.0; // Default rating
+            Rating = 5.0; // Default rating for a new user
         }
 
-        public abstract void DisplayInfo(); // Abstract method
+        public abstract void DisplayInfo(); 
     }
 
 }

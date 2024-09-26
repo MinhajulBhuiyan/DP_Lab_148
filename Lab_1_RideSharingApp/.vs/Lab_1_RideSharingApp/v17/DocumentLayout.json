@@ -3,68 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\5th semester\\dp_lab\\lab_1_ridesharingapp\\lab_1_ridesharingapp\\trip\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\trip\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\5th semester\\dp_lab\\lab_1_ridesharingapp\\lab_1_ridesharingapp\\trip\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\trip\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\5th semester\\dp_lab\\lab_1_ridesharingapp\\lab_1_ridesharingapp\\utilities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\utilities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\5th semester\\dp_lab\\lab_1_ridesharingapp\\lab_1_ridesharingapp\\user\\rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\user\\rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\5th semester\\dp_lab\\lab_1_ridesharingapp\\lab_1_ridesharingapp\\payment\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\payment\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\5th semester\\dp_lab\\lab_1_ridesharingapp\\lab_1_ridesharingapp\\utilities\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\utilities\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\lab_1_ridesharingapp\\user\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\user\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\lab_1_ridesharingapp\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\lab_1_ridesharingapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\lab_1_ridesharingapp\\notification\\inappnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\notification\\inappnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\Driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\lab_1_ridesharingapp\\notification\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\notification\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\DigitalWalletPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\DigitalWalletPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\lab_1_ridesharingapp\\payment\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\payment\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\IPaymentMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\IPaymentMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\INotificationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\INotificationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\5th semester\\dp_lab\\lab_1_ridesharingapp\\lab_1_ridesharingapp\\inappnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\inappnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\EmailNotificationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\EmailNotificationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\Rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\RideType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\RideType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\SmsNotificationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\SmsNotificationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\Trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\CreditCardPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\CreditCardPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\PayPalPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\PayPalPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:Lab_1_RideSharingApp\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\lab_1_ridesharingapp\\payment\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B91F62D-7ECA-4F3C-ABF0-AEFBAB813A65}|Lab_1_RideSharingApp\\Lab_1_RideSharingApp.csproj|solutionrelative:lab_1_ridesharingapp\\payment\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,76 +62,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPaymentMethod.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\IPaymentMethod.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\IPaymentMethod.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\IPaymentMethod.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\IPaymentMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Rider.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\User\\Rider.cs",
+              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\User\\Rider.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\User\\Rider.cs",
+              "RelativeToolTip": "Lab_1_RideSharingApp\\User\\Rider.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAewDAAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:26:39.994Z",
+              "WhenOpened": "2024-09-26T16:28:24.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DigitalWalletPayment.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\DigitalWalletPayment.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\DigitalWalletPayment.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\DigitalWalletPayment.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\DigitalWalletPayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Trip\\Trip.cs",
+              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Trip\\Trip.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Trip\\Trip.cs",
+              "RelativeToolTip": "Lab_1_RideSharingApp\\Trip\\Trip.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwEsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:27:38.821Z",
+              "WhenOpened": "2024-09-26T16:27:56.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripService.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Trip\\TripService.cs",
+              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Trip\\TripService.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Trip\\TripService.cs",
+              "RelativeToolTip": "Lab_1_RideSharingApp\\Trip\\TripService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:32:48.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Utilities\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Utilities\\Program.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Utilities\\Program.cs",
+              "RelativeToolTip": "Lab_1_RideSharingApp\\Utilities\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:21:04.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Utilities\\UserInterface.cs",
+              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Utilities\\UserInterface.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Utilities\\UserInterface.cs",
+              "RelativeToolTip": "Lab_1_RideSharingApp\\Utilities\\UserInterface.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwCgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:33:49.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Payment\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Payment\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Payment\\PaymentService.cs",
+              "RelativeToolTip": "Lab_1_RideSharingApp\\Payment\\PaymentService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAIA4wFwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:31:39.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InAppNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Notification\\InAppNotificationService.cs",
+              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Notification\\InAppNotificationService.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Notification\\InAppNotificationService.cs",
+              "RelativeToolTip": "Lab_1_RideSharingApp\\Notification\\InAppNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:25:37.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\User\\User.cs",
+              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\User\\User.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\User\\User.cs",
+              "RelativeToolTip": "Lab_1_RideSharingApp\\User\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:22:41.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Notification\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Notification\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Notification\\INotificationService.cs",
+              "RelativeToolTip": "Lab_1_RideSharingApp\\Notification\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:24:28.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Driver.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Driver.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Driver.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Driver.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\Driver.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBkAAABFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\User\\Driver.cs",
+              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\User\\Driver.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\User\\Driver.cs",
+              "RelativeToolTip": "Lab_1_RideSharingApp\\User\\Driver.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T07:23:22.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmailNotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\EmailNotificationService.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\EmailNotificationService.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\EmailNotificationService.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\EmailNotificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Payment\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Payment\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Payment\\CreditCardPayment.cs",
+              "RelativeToolTip": "Lab_1_RideSharingApp\\Payment\\CreditCardPayment.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:25:15.314Z",
+              "WhenOpened": "2024-09-15T07:26:57.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Admin.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Admin.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Admin.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\Admin.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwCAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:23:46.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\App.config",
               "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\App.config",
@@ -156,127 +222,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InAppNotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\InAppNotificationService.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\InAppNotificationService.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\InAppNotificationService.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\InAppNotificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:25:37.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "INotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\INotificationService.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\INotificationService.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\INotificationService.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\INotificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:24:28.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Program.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Program.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Program.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:21:04.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Rider.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Rider.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Rider.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Rider.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\Rider.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:23:03.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RideType.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\RideType.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\RideType.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\RideType.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\RideType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:26:02.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SmsNotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\SmsNotificationService.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\SmsNotificationService.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\SmsNotificationService.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\SmsNotificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:24:55.235Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Trip.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Trip.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Trip.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Trip.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\Trip.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvyYAAAAJAAAAAAAAAA==",
+              "Title": "IPaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Payment\\IPaymentMethod.cs",
+              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\Payment\\IPaymentMethod.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\Payment\\IPaymentMethod.cs",
+              "RelativeToolTip": "Lab_1_RideSharingApp\\Payment\\IPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:22:08.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreditCardPayment.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\CreditCardPayment.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\CreditCardPayment.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\CreditCardPayment.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\CreditCardPayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:26:57.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PayPalPayment.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\PayPalPayment.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\PayPalPayment.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\PayPalPayment.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\PayPalPayment.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:27:14.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\User.cs",
-              "RelativeDocumentMoniker": "Lab_1_RideSharingApp\\User.cs",
-              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\5th Semester\\DP_LAB\\Lab_1_RideSharingApp\\Lab_1_RideSharingApp\\User.cs",
-              "RelativeToolTip": "Lab_1_RideSharingApp\\User.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T07:22:41.291Z"
+              "WhenOpened": "2024-09-15T07:26:39.994Z",
+              "EditorCaption": ""
             }
           ]
         }
