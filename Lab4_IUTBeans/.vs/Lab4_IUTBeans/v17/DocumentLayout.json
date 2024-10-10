@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\lab4_iutbeans\\decorator\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|solutionrelative:lab4_iutbeans\\decorator\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\lab4_iutbeans\\lab4_iutbeans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|solutionrelative:lab4_iutbeans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\lab4_iutbeans\\beverage\\latte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|solutionrelative:lab4_iutbeans\\beverage\\latte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\lab4_iutbeans\\condiments\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|solutionrelative:lab4_iutbeans\\condiments\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\lab4_iutbeans\\condiments\\icondiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|solutionrelative:lab4_iutbeans\\condiments\\icondiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\lab4_iutbeans\\beverage\\cappuccino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|solutionrelative:lab4_iutbeans\\beverage\\cappuccino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\lab4_iutbeans\\beverage\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|solutionrelative:lab4_iutbeans\\beverage\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\lab4_iutbeans\\beverage\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|solutionrelative:lab4_iutbeans\\beverage\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\lab4_iutbeans\\condiments\\whippedcream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|solutionrelative:lab4_iutbeans\\condiments\\whippedcream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\lab4_iutbeans\\condiments\\sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F55B5B6-D9F2-4F0B-9E47-DD8166FBEDC6}|Lab4_IUTBeans\\Lab4_IUTBeans.csproj|solutionrelative:lab4_iutbeans\\condiments\\sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Condiments\\Milk.cs",
+              "RelativeDocumentMoniker": "Lab4_IUTBeans\\Condiments\\Milk.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Condiments\\Milk.cs",
+              "RelativeToolTip": "Lab4_IUTBeans\\Condiments\\Milk.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:51:20.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WhippedCream.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Condiments\\WhippedCream.cs",
+              "RelativeDocumentMoniker": "Lab4_IUTBeans\\Condiments\\WhippedCream.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Condiments\\WhippedCream.cs",
+              "RelativeToolTip": "Lab4_IUTBeans\\Condiments\\WhippedCream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:52:10.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CondimentDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Decorator\\CondimentDecorator.cs",
+              "RelativeDocumentMoniker": "Lab4_IUTBeans\\Decorator\\CondimentDecorator.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Decorator\\CondimentDecorator.cs",
+              "RelativeToolTip": "Lab4_IUTBeans\\Decorator\\CondimentDecorator.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:50:46.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4_IUTBeans\\Program.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Program.cs",
+              "RelativeToolTip": "Lab4_IUTBeans\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwDoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:47:20.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Beverage\\Beverage.cs",
+              "RelativeDocumentMoniker": "Lab4_IUTBeans\\Beverage\\Beverage.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Beverage\\Beverage.cs",
+              "RelativeToolTip": "Lab4_IUTBeans\\Beverage\\Beverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:47:50.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cappuccino.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Beverage\\Cappuccino.cs",
+              "RelativeDocumentMoniker": "Lab4_IUTBeans\\Beverage\\Cappuccino.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Beverage\\Cappuccino.cs",
+              "RelativeToolTip": "Lab4_IUTBeans\\Beverage\\Cappuccino.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:49:46.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Espresso.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Beverage\\Espresso.cs",
+              "RelativeDocumentMoniker": "Lab4_IUTBeans\\Beverage\\Espresso.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Beverage\\Espresso.cs",
+              "RelativeToolTip": "Lab4_IUTBeans\\Beverage\\Espresso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:48:26.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Latte.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Beverage\\Latte.cs",
+              "RelativeDocumentMoniker": "Lab4_IUTBeans\\Beverage\\Latte.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Beverage\\Latte.cs",
+              "RelativeToolTip": "Lab4_IUTBeans\\Beverage\\Latte.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:49:22.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICondiment.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Condiments\\ICondiment.cs",
+              "RelativeDocumentMoniker": "Lab4_IUTBeans\\Condiments\\ICondiment.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Condiments\\ICondiment.cs",
+              "RelativeToolTip": "Lab4_IUTBeans\\Condiments\\ICondiment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:59:18.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sugar.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Condiments\\Sugar.cs",
+              "RelativeDocumentMoniker": "Lab4_IUTBeans\\Condiments\\Sugar.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab4_IUTBeans\\Lab4_IUTBeans\\Condiments\\Sugar.cs",
+              "RelativeToolTip": "Lab4_IUTBeans\\Condiments\\Sugar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:51:46.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

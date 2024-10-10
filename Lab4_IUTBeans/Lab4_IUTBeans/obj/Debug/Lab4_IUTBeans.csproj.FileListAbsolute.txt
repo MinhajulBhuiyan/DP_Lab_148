@@ -1,0 +1,7 @@
+C:\Users\bhuiy\OneDrive\Desktop\Lab4_IUTBeans\Lab4_IUTBeans\bin\Debug\Lab4_IUTBeans.exe.config
+C:\Users\bhuiy\OneDrive\Desktop\Lab4_IUTBeans\Lab4_IUTBeans\bin\Debug\Lab4_IUTBeans.exe
+C:\Users\bhuiy\OneDrive\Desktop\Lab4_IUTBeans\Lab4_IUTBeans\bin\Debug\Lab4_IUTBeans.pdb
+C:\Users\bhuiy\OneDrive\Desktop\Lab4_IUTBeans\Lab4_IUTBeans\obj\Debug\Lab4_IUTBeans.csproj.AssemblyReference.cache
+C:\Users\bhuiy\OneDrive\Desktop\Lab4_IUTBeans\Lab4_IUTBeans\obj\Debug\Lab4_IUTBeans.csproj.CoreCompileInputs.cache
+C:\Users\bhuiy\OneDrive\Desktop\Lab4_IUTBeans\Lab4_IUTBeans\obj\Debug\Lab4_IUTBeans.exe
+C:\Users\bhuiy\OneDrive\Desktop\Lab4_IUTBeans\Lab4_IUTBeans\obj\Debug\Lab4_IUTBeans.pdb
