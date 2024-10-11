@@ -1,0 +1,7 @@
+C:\Users\bhuiy\OneDrive\Desktop\Lab5_Bundlers\Lab5_Bundlers\bin\Debug\Lab5_Bundlers.exe.config
+C:\Users\bhuiy\OneDrive\Desktop\Lab5_Bundlers\Lab5_Bundlers\bin\Debug\Lab5_Bundlers.exe
+C:\Users\bhuiy\OneDrive\Desktop\Lab5_Bundlers\Lab5_Bundlers\bin\Debug\Lab5_Bundlers.pdb
+C:\Users\bhuiy\OneDrive\Desktop\Lab5_Bundlers\Lab5_Bundlers\obj\Debug\Lab5_Bundlers.csproj.AssemblyReference.cache
+C:\Users\bhuiy\OneDrive\Desktop\Lab5_Bundlers\Lab5_Bundlers\obj\Debug\Lab5_Bundlers.csproj.CoreCompileInputs.cache
+C:\Users\bhuiy\OneDrive\Desktop\Lab5_Bundlers\Lab5_Bundlers\obj\Debug\Lab5_Bundlers.exe
+C:\Users\bhuiy\OneDrive\Desktop\Lab5_Bundlers\Lab5_Bundlers\obj\Debug\Lab5_Bundlers.pdb
