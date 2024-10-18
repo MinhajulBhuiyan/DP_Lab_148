@@ -1,0 +1,7 @@
+C:\Users\bhuiy\OneDrive\Desktop\Lab-05_NotifiDapters\Lab-05_NotifiDapters\bin\Debug\Lab-05_NotifiDapters.exe.config
+C:\Users\bhuiy\OneDrive\Desktop\Lab-05_NotifiDapters\Lab-05_NotifiDapters\bin\Debug\Lab-05_NotifiDapters.exe
+C:\Users\bhuiy\OneDrive\Desktop\Lab-05_NotifiDapters\Lab-05_NotifiDapters\bin\Debug\Lab-05_NotifiDapters.pdb
+C:\Users\bhuiy\OneDrive\Desktop\Lab-05_NotifiDapters\Lab-05_NotifiDapters\obj\Debug\Lab-05_NotifiDapters.csproj.AssemblyReference.cache
+C:\Users\bhuiy\OneDrive\Desktop\Lab-05_NotifiDapters\Lab-05_NotifiDapters\obj\Debug\Lab-05_NotifiDapters.csproj.CoreCompileInputs.cache
+C:\Users\bhuiy\OneDrive\Desktop\Lab-05_NotifiDapters\Lab-05_NotifiDapters\obj\Debug\Lab-05_NotifiDapters.exe
+C:\Users\bhuiy\OneDrive\Desktop\Lab-05_NotifiDapters\Lab-05_NotifiDapters\obj\Debug\Lab-05_NotifiDapters.pdb

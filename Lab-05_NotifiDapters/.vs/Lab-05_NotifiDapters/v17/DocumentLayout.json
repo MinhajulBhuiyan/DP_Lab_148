@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab-05_NotifiDapters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A20915FE-8D48-4433-885E-A55103501C92}|Lab-05_NotifiDapters\\Lab-05_NotifiDapters.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\lab-05_notifidapters\\lab-05_notifidapters\\notification\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20915FE-8D48-4433-885E-A55103501C92}|Lab-05_NotifiDapters\\Lab-05_NotifiDapters.csproj|solutionrelative:lab-05_notifidapters\\notification\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20915FE-8D48-4433-885E-A55103501C92}|Lab-05_NotifiDapters\\Lab-05_NotifiDapters.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\lab-05_notifidapters\\lab-05_notifidapters\\notification\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20915FE-8D48-4433-885E-A55103501C92}|Lab-05_NotifiDapters\\Lab-05_NotifiDapters.csproj|solutionrelative:lab-05_notifidapters\\notification\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20915FE-8D48-4433-885E-A55103501C92}|Lab-05_NotifiDapters\\Lab-05_NotifiDapters.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\lab-05_notifidapters\\lab-05_notifidapters\\epostalmailadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20915FE-8D48-4433-885E-A55103501C92}|Lab-05_NotifiDapters\\Lab-05_NotifiDapters.csproj|solutionrelative:lab-05_notifidapters\\epostalmailadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20915FE-8D48-4433-885E-A55103501C92}|Lab-05_NotifiDapters\\Lab-05_NotifiDapters.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\lab-05_notifidapters\\lab-05_notifidapters\\epostalmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20915FE-8D48-4433-885E-A55103501C92}|Lab-05_NotifiDapters\\Lab-05_NotifiDapters.csproj|solutionrelative:lab-05_notifidapters\\epostalmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20915FE-8D48-4433-885E-A55103501C92}|Lab-05_NotifiDapters\\Lab-05_NotifiDapters.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\lab-05_notifidapters\\lab-05_notifidapters\\notification\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20915FE-8D48-4433-885E-A55103501C92}|Lab-05_NotifiDapters\\Lab-05_NotifiDapters.csproj|solutionrelative:lab-05_notifidapters\\notification\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20915FE-8D48-4433-885E-A55103501C92}|Lab-05_NotifiDapters\\Lab-05_NotifiDapters.csproj|c:\\users\\bhuiy\\onedrive\\desktop\\lab-05_notifidapters\\lab-05_notifidapters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20915FE-8D48-4433-885E-A55103501C92}|Lab-05_NotifiDapters\\Lab-05_NotifiDapters.csproj|solutionrelative:lab-05_notifidapters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EPostalMailAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab-05_NotifiDapters\\Lab-05_NotifiDapters\\EPostalMailAdapter.cs",
+              "RelativeDocumentMoniker": "Lab-05_NotifiDapters\\EPostalMailAdapter.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab-05_NotifiDapters\\Lab-05_NotifiDapters\\EPostalMailAdapter.cs",
+              "RelativeToolTip": "Lab-05_NotifiDapters\\EPostalMailAdapter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:55:43.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EPostalMailService.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab-05_NotifiDapters\\Lab-05_NotifiDapters\\EPostalMailService.cs",
+              "RelativeDocumentMoniker": "Lab-05_NotifiDapters\\EPostalMailService.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab-05_NotifiDapters\\Lab-05_NotifiDapters\\EPostalMailService.cs",
+              "RelativeToolTip": "Lab-05_NotifiDapters\\EPostalMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:55:14.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SMSNotification.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab-05_NotifiDapters\\Lab-05_NotifiDapters\\Notification\\SMSNotification.cs",
+              "RelativeDocumentMoniker": "Lab-05_NotifiDapters\\Notification\\SMSNotification.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab-05_NotifiDapters\\Lab-05_NotifiDapters\\Notification\\SMSNotification.cs",
+              "RelativeToolTip": "Lab-05_NotifiDapters\\Notification\\SMSNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:54:44.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab-05_NotifiDapters\\Lab-05_NotifiDapters\\Notification\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "Lab-05_NotifiDapters\\Notification\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab-05_NotifiDapters\\Lab-05_NotifiDapters\\Notification\\EmailNotification.cs",
+              "RelativeToolTip": "Lab-05_NotifiDapters\\Notification\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:54:21.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab-05_NotifiDapters\\Lab-05_NotifiDapters\\Notification\\INotification.cs",
+              "RelativeDocumentMoniker": "Lab-05_NotifiDapters\\Notification\\INotification.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab-05_NotifiDapters\\Lab-05_NotifiDapters\\Notification\\INotification.cs",
+              "RelativeToolTip": "Lab-05_NotifiDapters\\Notification\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:53:21.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab-05_NotifiDapters\\Lab-05_NotifiDapters\\Program.cs",
+              "RelativeDocumentMoniker": "Lab-05_NotifiDapters\\Program.cs",
+              "ToolTip": "C:\\Users\\bhuiy\\OneDrive\\Desktop\\Lab-05_NotifiDapters\\Lab-05_NotifiDapters\\Program.cs",
+              "RelativeToolTip": "Lab-05_NotifiDapters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:52:52.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
