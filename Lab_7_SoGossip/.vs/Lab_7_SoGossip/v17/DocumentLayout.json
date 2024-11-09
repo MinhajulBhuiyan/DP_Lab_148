@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\lab_7_sogossip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\lab_7_sogossip\\linkedin\\linkedinnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\linkedin\\linkedinnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\lab_7_sogossip\\linkedin\\linkedinfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\linkedin\\linkedinfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\lab_7_sogossip\\instagram\\instagramnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\instagram\\instagramnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\lab_7_sogossip\\instagram\\instagramfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\instagram\\instagramfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\lab_7_sogossip\\facebook\\facebooknotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\facebook\\facebooknotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\lab_7_sogossip\\facebook\\facebookfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\facebook\\facebookfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\lab_7_sogossip\\facades\\professionalfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\facades\\professionalfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\lab_7_sogossip\\facades\\metafacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\facades\\metafacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|c:\\users\\legion\\desktop\\lab 7\\lab_7_sogossip\\lab_7_sogossip\\aggregator\\socialmediaaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\aggregator\\socialmediaaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\lab_7_sogossip\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\lab_7_sogossip\\twitter\\twitterfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\twitter\\twitterfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\lab_7_sogossip\\twitter\\twitternotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B108E3C3-7949-43D0-8363-9B555B2BDE0E}|Lab_7_SoGossip\\Lab_7_SoGossip.csproj|solutionrelative:lab_7_sogossip\\twitter\\twitternotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FacebookNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Facebook\\FacebookNotification.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\Facebook\\FacebookNotification.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Facebook\\FacebookNotification.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\Facebook\\FacebookNotification.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:52:13.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstagramFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Instagram\\InstagramFacade.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\Instagram\\InstagramFacade.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Instagram\\InstagramFacade.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\Instagram\\InstagramFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:50:56.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstagramNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Instagram\\InstagramNotification.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\Instagram\\InstagramNotification.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Instagram\\InstagramNotification.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\Instagram\\InstagramNotification.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:51:51.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedInFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\LinkedIn\\LinkedInFacade.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\LinkedIn\\LinkedInFacade.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\LinkedIn\\LinkedInFacade.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\LinkedIn\\LinkedInFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:04:10.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedInNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\LinkedIn\\LinkedInNotification.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\LinkedIn\\LinkedInNotification.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\LinkedIn\\LinkedInNotification.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\LinkedIn\\LinkedInNotification.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:02:36.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\Program.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Program.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:14:36.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacebookFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Facebook\\FacebookFacade.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\Facebook\\FacebookFacade.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Facebook\\FacebookFacade.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\Facebook\\FacebookFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:51:24.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfessionalFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Facades\\ProfessionalFacade.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\Facades\\ProfessionalFacade.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Facades\\ProfessionalFacade.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\Facades\\ProfessionalFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:11:44.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MetaFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Facades\\MetaFacade.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\Facades\\MetaFacade.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Facades\\MetaFacade.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\Facades\\MetaFacade.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:06:53.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SocialMediaAggregator.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Aggregator\\SocialMediaAggregator.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\Aggregator\\SocialMediaAggregator.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Aggregator\\SocialMediaAggregator.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\Aggregator\\SocialMediaAggregator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:16:00.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\INotification.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\INotification.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\INotification.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:14:52.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TwitterNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Twitter\\TwitterNotification.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\Twitter\\TwitterNotification.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Twitter\\TwitterNotification.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\Twitter\\TwitterNotification.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:15:38.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TwitterFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Twitter\\TwitterFacade.cs",
+              "RelativeDocumentMoniker": "Lab_7_SoGossip\\Twitter\\TwitterFacade.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab 7\\Lab_7_SoGossip\\Lab_7_SoGossip\\Twitter\\TwitterFacade.cs",
+              "RelativeToolTip": "Lab_7_SoGossip\\Twitter\\TwitterFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:03:25.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

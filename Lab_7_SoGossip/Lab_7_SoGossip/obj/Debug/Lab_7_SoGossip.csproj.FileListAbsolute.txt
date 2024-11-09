@@ -1,0 +1,14 @@
+C:\Users\Legion\Desktop\Lab_7_SoGossip\Lab_7_SoGossip\bin\Debug\Lab_7_SoGossip.exe.config
+C:\Users\Legion\Desktop\Lab_7_SoGossip\Lab_7_SoGossip\bin\Debug\Lab_7_SoGossip.exe
+C:\Users\Legion\Desktop\Lab_7_SoGossip\Lab_7_SoGossip\bin\Debug\Lab_7_SoGossip.pdb
+C:\Users\Legion\Desktop\Lab_7_SoGossip\Lab_7_SoGossip\obj\Debug\Lab_7_SoGossip.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\Lab_7_SoGossip\Lab_7_SoGossip\obj\Debug\Lab_7_SoGossip.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\Lab_7_SoGossip\Lab_7_SoGossip\obj\Debug\Lab_7_SoGossip.exe
+C:\Users\Legion\Desktop\Lab_7_SoGossip\Lab_7_SoGossip\obj\Debug\Lab_7_SoGossip.pdb
+C:\Users\Legion\Desktop\Lab 7\Lab_7_SoGossip\Lab_7_SoGossip\bin\Debug\Lab_7_SoGossip.exe.config
+C:\Users\Legion\Desktop\Lab 7\Lab_7_SoGossip\Lab_7_SoGossip\bin\Debug\Lab_7_SoGossip.exe
+C:\Users\Legion\Desktop\Lab 7\Lab_7_SoGossip\Lab_7_SoGossip\bin\Debug\Lab_7_SoGossip.pdb
+C:\Users\Legion\Desktop\Lab 7\Lab_7_SoGossip\Lab_7_SoGossip\obj\Debug\Lab_7_SoGossip.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\Lab 7\Lab_7_SoGossip\Lab_7_SoGossip\obj\Debug\Lab_7_SoGossip.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\Lab 7\Lab_7_SoGossip\Lab_7_SoGossip\obj\Debug\Lab_7_SoGossip.exe
+C:\Users\Legion\Desktop\Lab 7\Lab_7_SoGossip\Lab_7_SoGossip\obj\Debug\Lab_7_SoGossip.pdb
