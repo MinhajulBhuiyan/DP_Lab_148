@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|c:\\users\\legion\\desktop\\lab_10_bank_account_command_pattern\\lab_10_bank_account_command_pattern\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|solutionrelative:lab_10_bank_account_command_pattern\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\lab_10_bank_account_command_pattern\\command\\transfercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|solutionrelative:lab_10_bank_account_command_pattern\\command\\transfercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\lab_10_bank_account_command_pattern\\command\\depositcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|solutionrelative:lab_10_bank_account_command_pattern\\command\\depositcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\lab_10_bank_account_command_pattern\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|solutionrelative:lab_10_bank_account_command_pattern\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\lab_10_bank_account_command_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|solutionrelative:lab_10_bank_account_command_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\lab_10_bank_account_command_pattern\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|solutionrelative:lab_10_bank_account_command_pattern\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\lab_10_bank_account_command_pattern\\command\\withdrawcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|solutionrelative:lab_10_bank_account_command_pattern\\command\\withdrawcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\lab_10_bank_account_command_pattern\\command\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|solutionrelative:lab_10_bank_account_command_pattern\\command\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\lab_10_bank_account_command_pattern\\query\\gettransactionhistoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|solutionrelative:lab_10_bank_account_command_pattern\\query\\gettransactionhistoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\lab_10_bank_account_command_pattern\\query\\getbalancequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|solutionrelative:lab_10_bank_account_command_pattern\\query\\getbalancequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\lab_10_bank_account_command_pattern\\query\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|solutionrelative:lab_10_bank_account_command_pattern\\query\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\lab_10_bank_account_command_pattern\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|solutionrelative:lab_10_bank_account_command_pattern\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\lab_10_bank_account_command_pattern\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AE193-40A4-4AA2-B7A3-FDB3E05AA6FC}|Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern.csproj|solutionrelative:lab_10_bank_account_command_pattern\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransferCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Command\\TransferCommand.cs",
+              "RelativeDocumentMoniker": "Lab_10_Bank_Account_Command_Pattern\\Command\\TransferCommand.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Command\\TransferCommand.cs",
+              "RelativeToolTip": "Lab_10_Bank_Account_Command_Pattern\\Command\\TransferCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:34:05.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WithdrawCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Command\\WithdrawCommand.cs",
+              "RelativeDocumentMoniker": "Lab_10_Bank_Account_Command_Pattern\\Command\\WithdrawCommand.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Command\\WithdrawCommand.cs",
+              "RelativeToolTip": "Lab_10_Bank_Account_Command_Pattern\\Command\\WithdrawCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:38:06.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepositCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Command\\DepositCommand.cs",
+              "RelativeDocumentMoniker": "Lab_10_Bank_Account_Command_Pattern\\Command\\DepositCommand.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Command\\DepositCommand.cs",
+              "RelativeToolTip": "Lab_10_Bank_Account_Command_Pattern\\Command\\DepositCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:38:23.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Command\\ICommand.cs",
+              "RelativeDocumentMoniker": "Lab_10_Bank_Account_Command_Pattern\\Command\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Command\\ICommand.cs",
+              "RelativeToolTip": "Lab_10_Bank_Account_Command_Pattern\\Command\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:39:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Transaction.cs",
+              "RelativeDocumentMoniker": "Lab_10_Bank_Account_Command_Pattern\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Transaction.cs",
+              "RelativeToolTip": "Lab_10_Bank_Account_Command_Pattern\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:36:35.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_10_Bank_Account_Command_Pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Program.cs",
+              "RelativeToolTip": "Lab_10_Bank_Account_Command_Pattern\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:12:15.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Lab_10_Bank_Account_Command_Pattern\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\BankAccount.cs",
+              "RelativeToolTip": "Lab_10_Bank_Account_Command_Pattern\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:35:54.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Command\\CreateAccountCommand.cs",
+              "RelativeDocumentMoniker": "Lab_10_Bank_Account_Command_Pattern\\Command\\CreateAccountCommand.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Command\\CreateAccountCommand.cs",
+              "RelativeToolTip": "Lab_10_Bank_Account_Command_Pattern\\Command\\CreateAccountCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:38:38.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetTransactionHistoryQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Query\\GetTransactionHistoryQuery.cs",
+              "RelativeDocumentMoniker": "Lab_10_Bank_Account_Command_Pattern\\Query\\GetTransactionHistoryQuery.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Query\\GetTransactionHistoryQuery.cs",
+              "RelativeToolTip": "Lab_10_Bank_Account_Command_Pattern\\Query\\GetTransactionHistoryQuery.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:04:56.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetBalanceQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Query\\GetBalanceQuery.cs",
+              "RelativeDocumentMoniker": "Lab_10_Bank_Account_Command_Pattern\\Query\\GetBalanceQuery.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Query\\GetBalanceQuery.cs",
+              "RelativeToolTip": "Lab_10_Bank_Account_Command_Pattern\\Query\\GetBalanceQuery.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:03:06.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Query\\IQuery.cs",
+              "RelativeDocumentMoniker": "Lab_10_Bank_Account_Command_Pattern\\Query\\IQuery.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\Query\\IQuery.cs",
+              "RelativeToolTip": "Lab_10_Bank_Account_Command_Pattern\\Query\\IQuery.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:02:09.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Lab_10_Bank_Account_Command_Pattern\\User\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\User\\UserRepository.cs",
+              "RelativeToolTip": "Lab_10_Bank_Account_Command_Pattern\\User\\UserRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:31:10Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\User\\User.cs",
+              "RelativeDocumentMoniker": "Lab_10_Bank_Account_Command_Pattern\\User\\User.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\Lab_10_Bank_Account_Command_Pattern\\Lab_10_Bank_Account_Command_Pattern\\User\\User.cs",
+              "RelativeToolTip": "Lab_10_Bank_Account_Command_Pattern\\User\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:34:03.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
